@@ -56,7 +56,7 @@ https://voice.mozilla.org/zh-CN
 http://www.openslr.org/resources.php
 
 |Resource|	Name|	Category|	Summary|
-|:------:|:-----------:|:-----------------------------------------------------|
+|:------:|:-----------:|:--------:|:-------------------------------------|
 |SLR1|	Yesno|	Speech|	Sixty recordings of one individual saying yes or no in Hebrew; each recording is eight words long.|
 |SLR2|	OpenFST|	Software|	A mirror of the OpenFst toolkit|
 |SLR3|	sph2pipe|	Software|	A mirror of the sph2pipe software|
